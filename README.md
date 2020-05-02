@@ -5,3 +5,6 @@ Use PySpark on AWS EMR to analyze 10Gb of Yelp review data. Yelp review data is 
 
 ### Cluster Configuration
 ![Cluster Configuration](cluster_configuration.png)
+
+### Notebook Configuration
+![Notebook Configuration](notebook_configuration.png)
